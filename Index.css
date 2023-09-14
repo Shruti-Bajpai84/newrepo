@@ -1,0 +1,87 @@
+/* #container{
+    display: grid;
+    grid-template-columns: 200px 300px 400px;
+    grid-template-rows: 200px 300px 400px;
+                                                                                 
+}
+.box{
+    border: 2px solid black;
+    background-color: bisque;  
+}
+
+/* .row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+/* .column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+} */ 
+
+/* 
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    padding: 10px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.grid-wrapper > div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-wrapper > div > img{
+    /* width: 100%;
+    height: 100%; */
+    /* object-fit: cover;
+    border-radius: 5px;
+}
+
+.grid-wrapper{
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-auto-rows: 200px;
+    grid-auto-flow: dense;
+
+} */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
